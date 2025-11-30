@@ -1,4 +1,5 @@
 This project is a full end-to-end Power BI dashboard analyzing ecommerce performance across sales, revenue, orders, customers, categories, payment methods, and state-level insights.
+
 **Key Insights
 
 Monthly revenue and order trends
